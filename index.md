@@ -1,3 +1,3 @@
 # synaesthesia
 
-Musician. Speaker. Public Servant.
+A Mere Minstrel's Musings
