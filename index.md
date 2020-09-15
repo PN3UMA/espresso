@@ -1,3 +1,3 @@
-# M.D. Weatherspoon
+# synaesthesia
 
 Musician. Speaker. Public Servant.
