@@ -1,4 +1,3 @@
-# Welcome to my blog
+# M.D. Weatherspoon
 
-I'm glad you are here. I plan to talk about ...
-wig
+Musician. Speaker. Public Servant.
