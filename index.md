@@ -1,3 +1,1 @@
-# synaesthesia
-
-A Mere Minstrel's Musings
+# A Mere Minstrel's Musings
