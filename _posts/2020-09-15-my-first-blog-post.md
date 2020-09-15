@@ -6,7 +6,7 @@ categories: tech Linux Fedora
 ---
 I started my Linux journey a little over a year ago and can emphatically declare that it has definitely changed my life for the better. The freedom and peace of mind that Linux affords cannot be overstated. Plus, it makes me feel like a secret agent.
 
-![LinuxBasicsforHackers_cover_cropped](assets/LinuxBasicsforHackers_cover_cropped-480x372.jpg)
+![LinuxBasicsforHackers_cover_cropped](https://www.ethicalhacker.net/wp-content/uploads/features/books/linuxbasics/LinuxBasicsforHackers_cover_cropped-480x372.jpg)
 
 Windows loses. Every time I use it, I am reminded of why I left it. It's slow, crashy, and has a ton of crapware. Every time I update, there's more crap I don't want that I cannot delete. Windows is also very nosy and a cesspool for malware. 
 
@@ -20,7 +20,7 @@ Fedora is a cutting-edge, state-of-the-art distro that updates every 6 months. F
 
 Fedora just works out of the box. I've never run into any problems running it via live USB or installing it to any device. I would recommend it to a seasoned Linux user or a newbie. It is simple, not bloated, yet powerful enough for modern computing. The GNOME desktop environment has been revamped with touch in mind, so using the touchscreen on my 11" Lenovo Flex was a joy. Linux is under the hood of Android, and mobile is becoming a promising new frontier for Linux distros, with Fedora at the vanguard. 
 
-![KVgR0rq.jpg](assets/KVgR0rq.jpg)
+![KVgR0rq.jpg](https://pbs.twimg.com/media/DRlso0vX4AErONi?format=jpg&name=small)
 
 Do you, like many, own an old desktop tower that has a floppy disk drive and is running Windows XP? Don't throw it out just yet. Linux can breathe new life into older hardware. I wouldn't, however, recommend Fedora for older systems. I would suggest [**Xubuntu**](https://xubuntu.org/), which requires less hard RAM and hard drive space, supports 32-bit architecture if applicable, and uses [*XFCE*](https://www.xfce.org/), a lightweight desktop environment. Which leads me to my next point.
 
