@@ -6,7 +6,7 @@ categories: tech Linux Fedora
 ---
 I started my Linux journey a little over a year ago and can emphatically declare that it has definitely changed my life for the better. The freedom and peace of mind that Linux affords cannot be overstated. Plus, it makes me feel like a secret agent.
 
-![LinuxBasicsforHackers_cover_cropped](https://www.ethicalhacker.net/wp-content/uploads/features/books/linuxbasics/LinuxBasicsforHackers_cover_cropped-480x372.jpg)
+![LinuxBasicsforHackers_cover_cropped](https://www.oreilly.com/api/v2/epubs/9781492069485/files/images/page212.jpg)
 
 Windows loses. Every time I use it, I am reminded of why I left it. It's slow, crashy, and has a ton of crapware. Every time I update, there's more crap I don't want that I cannot delete. Windows is also very nosy and a cesspool for malware. 
 
